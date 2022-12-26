@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChalavaRamanjaneyaReddy
 - 👀 I’m interested in Full stack developer
-- 🌱 I’m currently learning Full stack java
+- 🌱 I’m currently learning mern stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
